@@ -36,12 +36,13 @@ class Main
 //}
 
 System.out.println("Here goes your code.");
-System.out.println("This code belongs to a main() method, unfold the line 1 to see the whole ");
+System.out.println("This code is into a main() method, unfold the line 1 to see the whole ");
 System.out.println("source code and to add whatever you would need to make it runnable.");
 System.out.println("");
-System.out.println("Click on [RUN] and hack fun.");
+System.out.println("Click on [RUN]");
 
 // { autofold
 	}
 }
-//}```
+//}
+```
