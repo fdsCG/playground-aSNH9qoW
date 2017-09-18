@@ -1,4 +1,3 @@
-```java runnable
 // { autofold
 import java.lang.annotation.*;
 import java.lang.instrument.*;
@@ -28,21 +27,13 @@ import java.util.prefs.*;
 import java.util.regex.*;
 import java.util.spi.*;
 import java.util.zip.*;
-
-class Main
-{
-	public static void main (String[] args) throws Exception
-	{
 //}
 
-System.out.println("Here goes your code.");
-System.out.println("This code is into a main() method, unfold the line 1 to see the whole ");
-System.out.println("source code and to add whatever you would need to make it runnable.");
-System.out.println("");
-System.out.println("Click on [RUN]");
-
-// { autofold
+public class Main {
+    
+	public static void main (String[] args) {
+        System.out.println("Here goes your code.");
+        System.out.println("Click on [RUN]");
 	}
+    
 }
-//}
-```
