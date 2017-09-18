@@ -1,3 +1,4 @@
+```java runnable
 // { autofold
 import java.lang.annotation.*;
 import java.lang.instrument.*;
@@ -37,3 +38,4 @@ public class Main {
 	}
     
 }
+```
